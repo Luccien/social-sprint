@@ -1,3 +1,11 @@
+---
+name: "✨ New Task / Feature"
+about: Suggest a new task, feature, or improvement
+title: "[Task] "
+labels: enhancement
+assignees: ''
+---
+
 ## 📋 Description
 What is the task or feature about?
 
